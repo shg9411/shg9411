@@ -1,5 +1,4 @@
 <div align=center>  
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shg9411)](https://github.com/shg9411/github-readme-stats)  
 ## Technologies & Tools  
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
@@ -12,7 +11,6 @@
 ![](https://img.shields.io/badge/Tools-Redis-informational?style=flat&logo=Redis&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=NGINX&logoColor=white&color=2bbc8a)  
 ![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=Django&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=2bbc8a)
-
+![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=Spring&logoColor=white&color=2bbc8a)
 </div>
