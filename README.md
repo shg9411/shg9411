@@ -1,6 +1,5 @@
 <div align=center>  
-  
-## Github Status  
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shg9411)](https://github.com/shg9411/github-readme-stats)  
 ## Technologies & Tools  
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
