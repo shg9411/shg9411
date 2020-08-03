@@ -16,8 +16,4 @@
 ![](https://img.shields.io/badge/Framework-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=2bbc8a)
 
-## Contact
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://shg9411.github.io/)](https://shg9411.github.io/)	
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shg941102@gmail.com)](mailto:shg941102@gmail.com)  
-
 </div>
