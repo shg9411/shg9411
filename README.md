@@ -1,7 +1,7 @@
 <div align=center>  
   
-[![stats](https://github-readme-stats.vercel.app/api?username=shg9411&hide=Tcl,Objectice-C&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shg9411)](https://github.com/anuraghazra/github-readme-stats)  
+[![stats](https://github-readme-stats.vercel.app/api?username=shg9411&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shg9411&hide=Tcl,Objectice-C)](https://github.com/anuraghazra/github-readme-stats)  
 ## Technologies & Tools  
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)  
