@@ -1,6 +1,6 @@
 <div align=center>  
   
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shg9411)](https://github.com/shg9411/github-readme-stats)  
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shg9411&show_icons=true)  
 ## Technologies & Tools  
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)  
