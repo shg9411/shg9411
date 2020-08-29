@@ -1,6 +1,7 @@
 <div align=center>  
   
 [![stats](https://github-readme-stats.vercel.app/api?username=shg9411&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![http://mazassumnida.wtf/api/generate_badge?boj=shg9411](http://mazassumnida.wtf/api/v2/generate_badge?boj=shg9411)](https://solved.ac/shg9411)  
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shg9411&hide=Tcl,css,objective-c)](https://github.com/anuraghazra/github-readme-stats)  
 ## Technologies & Tools  
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
