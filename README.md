@@ -18,6 +18,7 @@
   
   
 ### Interested in solving algorithmic problems, Data structure and learning something new  
+#### Platinum 💚  
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=shg9411)](https://solved.ac/shg9411) 
 
 </div>
