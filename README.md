@@ -17,7 +17,8 @@
 ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=Spring&logoColor=white&color=2bbc8a)  
   
   
-### Interested in solving algorithmic problems, Data structure and learning something new  
+### 알고리즘 문제 푸는 것, 자료구조와 새로 배우는 것을 좋아합니다.  
+### 넓이 < 깊이  
 #### Platinum 💚  
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=shg9411)](https://solved.ac/shg9411) 
 
